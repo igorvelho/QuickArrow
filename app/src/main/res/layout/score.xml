@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/scoreScreen"
+    android:background="#2a2a2a">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="220dip"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/textHeader"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:layout_toRightOf="@+id/image"
+            android:text="QUICK ARROW"
+            android:layout_weight="1"
+            android:textSize="25dp"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_marginTop="20dip"
+            android:id="@+id/textScoreName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:layout_toRightOf="@+id/image"
+            android:text="SCORE"
+            android:layout_weight="1"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/textScore"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:layout_toRightOf="@+id/image"
+            android:text="score"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="25dp" />
+
+        <TextView
+            android:id="@+id/textHighscoreName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:layout_weight="1"
+            android:layout_toRightOf="@+id/image"
+            android:text="HIGHSCORE"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/textHighscore"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:layout_weight="1"
+            android:layout_toRightOf="@+id/image"
+            android:text="highscore"
+            android:gravity="center"
+            android:textSize="25dp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+        <Button
+            android:id="@+id/dialogButtonOK"
+            android:layout_width="107dp"
+            android:layout_height="wrap_content"
+            android:text=" Ok "
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/buttonround"
+            android:textColor="#ffffff" />
+        <Button
+            android:id="@+id/dialogButtonShare"
+            android:layout_width="107dp"
+            android:layout_height="wrap_content"
+            android:text=" Share "
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/buttonround"
+            android:textColor="#ffffff" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

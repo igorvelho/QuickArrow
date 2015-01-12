@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\igor.velho\AndroidStudioProjects\ReverseArrow2\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\igor.velho\AndroidStudioProjects\ReverseArrow2\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-28aed9babc50957968d91cbccf845fd13b1c18fc.jar" />
+    </item>
+    <item
+        jar="D:\Instaladores\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\igor.velho\AndroidStudioProjects\ReverseArrow2\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-ce930c753a058fbb925ce967cc447cc95de3fc12.jar" />
+    </item>
+    <item
+        jar="C:\Users\igor.velho\AndroidStudioProjects\ReverseArrow2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\igor.velho\AndroidStudioProjects\ReverseArrow2\app\build\intermediates\pre-dexed\debug\classes-b04964d37e5c746fd7445b18303af38acac180a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\igor.velho\AndroidStudioProjects\ReverseArrow2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\igor.velho\AndroidStudioProjects\ReverseArrow2\app\build\intermediates\pre-dexed\debug\classes-b2fd4c013eaa91de0822d97b453cb57a5141a8be.jar" />
+    </item>
+    <item
+        jar="C:\Users\igor.velho\AndroidStudioProjects\ReverseArrow2\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\igor.velho\AndroidStudioProjects\ReverseArrow2\app\build\intermediates\pre-dexed\debug\classes-cfddbcd0ecb375a89f0bd4d791df44f5e1725735.jar" />
+    </item>
+
+</items>
