@@ -1,4 +1,4 @@
-package com.oldscorp.reversearrow.app;
+package com.southdev.quickarrow.app;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -471,7 +471,7 @@ public class MainActivity extends ActionBarActivity {
                 share.setType("image/jpeg");
                 share.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
                 share.putExtra(Intent.EXTRA_SUBJECT, "Quick Arrow Score");
-                share.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.oldscorp.reversearrow.app");
+                share.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.southdev.quickarrow.app");
                 share.putExtra(Intent.EXTRA_STREAM, imageUri);
                 startActivity(Intent.createChooser(share, "Share it"));
 

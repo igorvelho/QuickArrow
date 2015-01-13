@@ -1,4 +1,4 @@
-package com.oldscorp.reversearrow.app;
+package com.southdev.quickarrow.app;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

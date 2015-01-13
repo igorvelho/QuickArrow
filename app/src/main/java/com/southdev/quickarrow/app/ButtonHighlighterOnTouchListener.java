@@ -1,4 +1,4 @@
-package com.oldscorp.reversearrow.app;
+package com.southdev.quickarrow.app;
 
 import android.graphics.Color;
 import android.graphics.PorterDuff;
